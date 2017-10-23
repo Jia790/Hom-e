@@ -1,0 +1,3 @@
+Google api key AIzaSyAkSZC-s7UaaBYVPmvMC_F7CPuHzZ7SQIU
+Geo code docs https://developers.google.com/maps/documentation/geocoding/intro
+Need to use ajax to get address for geo loc http://stackoverflow.com/questions/23740548/how-to-pass-variables-and-data-from-php-to-javascript
